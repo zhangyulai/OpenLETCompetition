@@ -4,6 +4,8 @@
 
 ## 任务视频
 
+下方三个播放器可在当前页面直接播放；表格中的链接提供 MP4 文件。
+
 | 任务 | 视频 | 时长 | 本轮得分 |
 | --- | --- | --- | --- |
 | 任务 1：零件取放与拨杆 | [查看视频](./task1_parts_pick_expert.mp4) | 57.5 秒 | 100 |
@@ -13,6 +15,20 @@
 视频采用第三人称视角，已隐藏仿真侧边面板。格式为 H.264 MP4，分辨率 1280×720，帧率 30 fps，无音轨。
 
 每个任务录制一轮，使用 `round=1`、`seed=28`，均成功完成。表中得分对应视频展示的单轮运行。
+
+### 任务 1：零件取放与拨杆
+
+https://github.com/user-attachments/assets/87ed7b79-d682-4843-a11f-2ff126014efa
+
+
+### 任务 2：双臂协同搬箱
+
+https://github.com/user-attachments/assets/1960eda4-52ac-43ba-be50-bc628e74135a
+
+
+### 任务 3：小件循环上料
+
+https://github.com/user-attachments/assets/42d8a7c0-1550-4a73-a35e-da80b8ad84c7
 
 ## 相关项目
 
